@@ -2,7 +2,7 @@
 
 To start this application first you can get this repo code using below url
 
-git clone https://github.com/LandmakTechnology/nodejs-application
+git clone https://github.com/cngobili/node.js-app
 
 cd nodejs-app-mss
 
@@ -52,4 +52,5 @@ Execute below command to upload packages to nexus repo.
 
 npm publish
   
-#publish by Kaobi
+  
+Publish by Kaobi
